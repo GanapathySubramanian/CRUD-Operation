@@ -1,4 +1,4 @@
-# ANGULARJS-PHP&MYSQL(CRUD)
+# PHP&MYSQL-ANGULARJS (CRUD)
 
 ## Prerequisites
 1. Install XAMPP web server
