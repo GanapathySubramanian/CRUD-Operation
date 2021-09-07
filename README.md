@@ -18,5 +18,5 @@
 ## DELETE & READ
 <img src="https://user-images.githubusercontent.com/60843507/126192230-0ec7e7d1-e3a5-4366-bcb8-fa27991d991b.PNG">
 
-
+## Find the README.md File on Each sub folders to learn how to run the projects on your local system
 
