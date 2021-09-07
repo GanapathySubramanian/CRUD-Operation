@@ -1,4 +1,4 @@
-# REACTJS-NODEJS-MONGODB&MONGOOSE(CRUD)
+# NODEJS-MONGODB&MONGOOSE-REACTJS (CRUD)
 
 ## Prerequisites
 1. Install NODE JS using the link https://nodejs.org/en/ 
